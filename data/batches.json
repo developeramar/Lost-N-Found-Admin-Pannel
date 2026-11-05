@@ -1,0 +1,20 @@
+[
+  {
+    "batchId": "BATCH-20261105-42C223",
+    "createdAt": "2026-11-05T06:19:04.196Z",
+    "quantity": 2,
+    "tagRange": {
+      "first": "lnf_8f183fa6662a",
+      "last": "lnf_da5fb5468f18"
+    }
+  },
+  {
+    "batchId": "BATCH-20261105-274215",
+    "createdAt": "2026-11-05T06:03:55.588Z",
+    "quantity": 10,
+    "tagRange": {
+      "first": "LNF-H6KE-F3PM",
+      "last": "LNF-EWKB-T28T"
+    }
+  }
+]

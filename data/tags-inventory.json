@@ -1,0 +1,130 @@
+[
+  {
+    "tagId": "LNF-H6KE-F3PM",
+    "pinHash": "6b89e24b67093449ab793b5e5f3769d3d01ca2a46c080395c1bf03b2ff1996e8",
+    "salt": "553c4a1a3c883663a20eae096fd0f34e",
+    "status": "UNCLAIMED",
+    "batchId": "BATCH-20261105-274215",
+    "createdAt": "2026-11-05T06:03:55.587Z",
+    "activationUrl": "https://lostnfound.app/activate/LNF-H6KE-F3PM",
+    "claimedAt": null
+  },
+  {
+    "tagId": "LNF-5MB4-4ZDJ",
+    "pinHash": "ae5917b0dda4cac8f3e0586d8014f3cb9ebdf3a81e4428c6905b13f26edeeb74",
+    "salt": "3555e64ede77538f2f0e7b6c36b18224",
+    "status": "UNCLAIMED",
+    "batchId": "BATCH-20261105-274215",
+    "createdAt": "2026-11-05T06:03:55.588Z",
+    "activationUrl": "https://lostnfound.app/activate/LNF-5MB4-4ZDJ",
+    "claimedAt": null
+  },
+  {
+    "tagId": "LNF-2XUT-H822",
+    "pinHash": "9e363d238f8c9899f30be7a741c2750f832b21167b2141137413aa55a58748c7",
+    "salt": "6651b4756eac170cceabde866753e54b",
+    "status": "UNCLAIMED",
+    "batchId": "BATCH-20261105-274215",
+    "createdAt": "2026-11-05T06:03:55.588Z",
+    "activationUrl": "https://lostnfound.app/activate/LNF-2XUT-H822",
+    "claimedAt": null
+  },
+  {
+    "tagId": "LNF-ZHPE-C7DR",
+    "pinHash": "70d543e646bc47332a733fa44c0485ff805a0b0900663da037fb7c7fd74d773f",
+    "salt": "fab3f53cae9cd5edbecdbfa5eeca26e6",
+    "status": "UNCLAIMED",
+    "batchId": "BATCH-20261105-274215",
+    "createdAt": "2026-11-05T06:03:55.588Z",
+    "activationUrl": "https://lostnfound.app/activate/LNF-ZHPE-C7DR",
+    "claimedAt": null
+  },
+  {
+    "tagId": "LNF-SNP7-93A4",
+    "pinHash": "9e5959fa7c30f7898a7a26f2f7f4a82e8e1a9a5e8775201d447d4ec558e4a12c",
+    "salt": "281cce7fc0476388558a90fbc9bec14e",
+    "status": "UNCLAIMED",
+    "batchId": "BATCH-20261105-274215",
+    "createdAt": "2026-11-05T06:03:55.588Z",
+    "activationUrl": "https://lostnfound.app/activate/LNF-SNP7-93A4",
+    "claimedAt": null
+  },
+  {
+    "tagId": "LNF-TF4K-346E",
+    "pinHash": "d82a69ae14fd9a34633307d93936eb24ba303019b817043bbd5bce71800a0663",
+    "salt": "6cb32e976701c9f4b83d0caf947bad65",
+    "status": "UNCLAIMED",
+    "batchId": "BATCH-20261105-274215",
+    "createdAt": "2026-11-05T06:03:55.588Z",
+    "activationUrl": "https://lostnfound.app/activate/LNF-TF4K-346E",
+    "claimedAt": null
+  },
+  {
+    "tagId": "LNF-V6D4-W3P4",
+    "pinHash": "fe849a0644331bc57097d3d0f4b6d7ecf923b426548de89284687070bdaee3ae",
+    "salt": "505da01fa736d4aac91cb211bed153ac",
+    "status": "UNCLAIMED",
+    "batchId": "BATCH-20261105-274215",
+    "createdAt": "2026-11-05T06:03:55.588Z",
+    "activationUrl": "https://lostnfound.app/activate/LNF-V6D4-W3P4",
+    "claimedAt": null
+  },
+  {
+    "tagId": "LNF-K7KG-D3X4",
+    "pinHash": "037538a69b62a7a57619a18fb6c71a0e77b4c2acc3abd1e50f54c191ea0ad812",
+    "salt": "f08fc67ba96c4f6a91f2a181c9ed945b",
+    "status": "UNCLAIMED",
+    "batchId": "BATCH-20261105-274215",
+    "createdAt": "2026-11-05T06:03:55.588Z",
+    "activationUrl": "https://lostnfound.app/activate/LNF-K7KG-D3X4",
+    "claimedAt": null
+  },
+  {
+    "tagId": "LNF-AFPA-3F5J",
+    "pinHash": "4d5b6f99026556b45f29388ace5ad0429afaea1f85444ed55f25fcd53759b061",
+    "salt": "a6bf6cda7299d2ff59c46401cd54266d",
+    "status": "UNCLAIMED",
+    "batchId": "BATCH-20261105-274215",
+    "createdAt": "2026-11-05T06:03:55.588Z",
+    "activationUrl": "https://lostnfound.app/activate/LNF-AFPA-3F5J",
+    "claimedAt": null
+  },
+  {
+    "tagId": "LNF-EWKB-T28T",
+    "pinHash": "5f23fab1dc18c6cff3d27ba85c5bf39586fc708e1d6a59bcdbd76cb3251a3a8f",
+    "salt": "5223a374ebde7020a613c093a0cd4b7e",
+    "status": "UNCLAIMED",
+    "batchId": "BATCH-20261105-274215",
+    "createdAt": "2026-11-05T06:03:55.588Z",
+    "activationUrl": "https://lostnfound.app/activate/LNF-EWKB-T28T",
+    "claimedAt": null
+  },
+  {
+    "tagId": "lnf_8f183fa6662a",
+    "pinHash": "27cd931747ea04e2a7a7c3216ddd53a5993373ded8466a2b6c4e8559d93bb7c0",
+    "salt": "ef6df5eee37878f71b3e40fc98ace9bc",
+    "status": "CLAIMED",
+    "batchId": "BATCH-20261105-42C223",
+    "createdAt": "2026-11-05T06:19:04.195Z",
+    "activationUrl": "https://www.lostnfound.website/activate/lnf_8f183fa6662a",
+    "claimedAt": "2026-11-05T06:19:11.355Z",
+    "claimedBy": "user_123",
+    "itemId": "ITEM-5ABB33E0",
+    "itemName": "HP Laptop",
+    "itemCategory": "LAPTOP"
+  },
+  {
+    "tagId": "lnf_da5fb5468f18",
+    "pinHash": "06a5fe9b01e8b154a6be94d7801d3f97f581562955653d77cc3d406d65402f60",
+    "salt": "d864934dd5635b3ba5a3902bd3a8b705",
+    "status": "UNCLAIMED",
+    "batchId": "BATCH-20261105-42C223",
+    "createdAt": "2026-11-05T06:19:04.196Z",
+    "activationUrl": "https://www.lostnfound.website/activate/lnf_da5fb5468f18",
+    "claimedAt": null,
+    "claimedBy": null,
+    "itemId": null,
+    "itemName": "Protected Item",
+    "itemCategory": "SMART ASSET TAG"
+  }
+]

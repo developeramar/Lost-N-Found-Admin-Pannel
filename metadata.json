@@ -1,0 +1,6 @@
+{
+  "name": "LOST N FOUND – Admin Tag Generator",
+  "description": "Private administrative tool for batch generating unique QR code tags, hashed activation PINs, and print-ready sheets for LOST N FOUND inventory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

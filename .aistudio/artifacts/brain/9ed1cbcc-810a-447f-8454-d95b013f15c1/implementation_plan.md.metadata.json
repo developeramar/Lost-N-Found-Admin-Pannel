@@ -1,0 +1,6 @@
+{
+  "summary": "Simplified, lightweight 2-page implementation plan for LOST N FOUND – Admin Tag Generator: Login page and QR Generator Dashboard, batch generation (10, 50, 100, 500), server-side generation with salted SHA-256 PIN hashing, dedicated database 'lostnfound-tags', and two direct downloads (printable QR PDF and scratch-off PIN sheet).",
+  "updatedAt": "2026-11-05T05:58:28.459202909Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
